@@ -8,6 +8,8 @@ https://portifolio-front-end.vercel.app/
 
 Html5 e CSS3.
 
+/------------------------------------------------/
+
 *Hospedado pelo site da Vercel. Uso exclusivo para estudo/portifólio.
 
 Mais informações: 
