@@ -14,4 +14,4 @@ Html5 e CSS3.
 
 Mais informações: 
 
-vercel.com
+http://vercel.com
