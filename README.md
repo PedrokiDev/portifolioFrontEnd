@@ -6,4 +6,4 @@ https://portifolio-front-end.vercel.app/
 
 <h3>Linguagens utilizadas:</h3>
 
-Html5 e CSS.
+Html5 e CSS3.
