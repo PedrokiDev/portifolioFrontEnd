@@ -1,0 +1,24 @@
+.action::before{
+    content: "";
+    background-color: #f25a70;
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+}
+
+.action:hover:before{
+    animation-name: rotate;
+    animation-duration: 0.4s;
+    animation-direction: reverse;
+    background-color: #7C5E99;
+    transition: 0.7s;
+}
+
+@keyframes rotate {
+    0% {
+      transform: rotate(0);
+    }
+    100% {
+      transform: rotate(180deg);
+    }
+  }
