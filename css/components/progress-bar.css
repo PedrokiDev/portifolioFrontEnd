@@ -1,6 +1,7 @@
 progress {
     -webkit-appearance: none;
     height: 30px;
+    width: 270px;
   }
 
   ::-webkit-progress-bar{
