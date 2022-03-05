@@ -1,6 +1,5 @@
 .card-project{
     background-color: #7C5E99;
-    box-shadow: 10px 10px 0 solid #fff;
     width: 100px;
     height: 100px;
     display: flex;
@@ -10,4 +9,10 @@
 
 .card-project.-blue{
     background-color: #4C5B84;
+}
+
+.card-project img{
+    width: 300px;
+    height: 300px;
+    box-shadow: 10px 10px 0px #FFF;
 }
